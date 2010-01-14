@@ -1,0 +1,5 @@
+= memoize-gem
+
+Simple memoization gem
+
+Copyright (c) 2009-2010 リヴェリエ. See LICENSE for details.
